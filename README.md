@@ -12,6 +12,8 @@ Improves social networking based on interests
 Connektor creates a schedule of events 
 Connektor allows students to create their own private and public events
 
+The PhoneGap code and Android APK can be found at: https://github.com/kikku2506/Connektor_phoneGap
+
 
 
 
