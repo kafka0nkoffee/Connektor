@@ -1,7 +1,6 @@
 # Connektor
 
 Demo video:  https://drive.google.com/file/d/1QI6bk4kc81nXn3MxCqTPmwutB25AYalC/view?usp=sharing
-APK: available under /connektor-android-apk folder
 
 ### WHAT IS CONNEKTOR?
 This is the barebones implementation of the actual app which is now proprietary of U-Waterloo. This app was developed as part of the graduate-level course ECE 650. This app caters specifically to the students of the University of Waterloo and therefore I do not have permission to share the original source code.
